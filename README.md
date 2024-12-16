@@ -5,7 +5,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=begprod&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=begprod&theme=transparent&mode=daily)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=begprod&theme=transparent&mode=weekly)](https://git.io/streak-stats)<br/>
 
 I'm a **Front-End Developer** with a strong passion for building efficient, user-friendly, and creative web applications.  
 
