@@ -7,6 +7,8 @@ I'm a **Front-End Developer** with a strong passion for building efficient, user
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=begprod&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-activity-graph.vercel.app/graph?username=begprod&bg_color=ffffff&color=0d0d0d&line=5688bd&point=dd038d&area=true&hide_border=true)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=begprod&bg_color=ffffff&color=0d0d0d&line=5688bd&point=dd038d&area=true&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=begprod&theme=gruvbox&row=1)
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=begprod)
